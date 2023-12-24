@@ -1,7 +1,7 @@
 # React Live Chat Demo  --- For Basic Learners
 ### with Express, React, Socket.io and RxJS.
 
-### This repository coincides with a walkthrough available to read on Medium here [coming soon].
+### This repository coincides with a walkthrough available to read on Medium here.
 
 Not only does developing your own chat solutions give you total freedom with what features to integrate, privacy concerns are alleviated by knowing where your messages are being routed to and stored at; a stark contrast to adopting a third party service.
 
